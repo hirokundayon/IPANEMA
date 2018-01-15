@@ -12,8 +12,8 @@ Microsoft ExcelでGoogle Chromeを自動実行するプログラムです。  
 
 ## 必要なもの
 + Microsoft Excel  
-   * Micrsoft Office 2016で検証しました。  
-   * 32bit版でも64bit版でも動作します。  
+    * Micrsoft Office 2016で検証しました。  
+    * 32bit版でも64bit版でも動作します。  
 + [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/)  
     * Google Chromeの操作に使用します。  
 + [VBA-JSON](https://github.com/VBA-tools/VBA-JSON)  
