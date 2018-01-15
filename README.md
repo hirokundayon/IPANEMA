@@ -9,12 +9,13 @@ Microsoft ExcelでGoogle Chromeを自動実行するプログラムです。  
 1. メモリーカードエラー写真をクリック  
 1. さらにクリックして拡大表示  
 1. Webブラウザ停止  
+
 ##必要なもの
 + Microsoft Excel  
-++ 32bit版でも64bit版でも動作します。
+** 32bit版でも64bit版でも動作します。
 + [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/)  
-++ Google Chromeの操作に使用します。
-+ [VBA-JSON](https://github.com/VBA-tools/VBA-JSON)  ｓ
-++ JSONのパーズに使用します。
+** Google Chromeの操作に使用します。  
++ [VBA-JSON](https://github.com/VBA-tools/VBA-JSON)  
+** JSONのパーズに使用します。  
 + [VBA-Dictionary](https://github.com/VBA-tools/VBA-Dictionary)  
-++ VBA-JSONが使用します。
+** VBA-JSONが使用します。  
