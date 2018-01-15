@@ -11,8 +11,8 @@ Microsoft ExcelでGoogle Chromeを自動実行するプログラムです。  
 1. Webブラウザ停止  
 
 ## 必要なもの
-+ Microsoft Excel  
-    * Micrsoft Office 2016で検証しました。  
++ Microsoft Excel    
+    * Micrsoft Excel 2016で検証しました。  
     * 32bit版でも64bit版でも動作します。  
 + [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/)  
     * Google Chromeの操作に使用します。  
