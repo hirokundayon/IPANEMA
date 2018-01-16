@@ -1,6 +1,6 @@
 # IPANEMA
 ## 概要  
-Microsoft ExcelでGoogle Chromeを自動実行するプログラムです。  
+Microsoft ExcelでGoogle Chromeを自動実行するプログラムです。    
 次の順番でGoogle Chromeを自動実行します。  
 1. Webブラウザ起動
 1. Googleで「OSC 名古屋 2012 レポート」を検索
