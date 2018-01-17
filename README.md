@@ -15,7 +15,9 @@ Microsoft ExcelでGoogle Chromeを自動実行するプログラムです。
     * Micrsoft Excel 2016    
         + 64bit版  
         + 32bit版  
-    * Micrsoft Excel 2010  
+    * Microsoft Excel 2013
+        + 32bit版   
+    * Microsoft Excel 2010  
         + 32bit版  
 + [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/)  
     * Google Chromeの操作に使用します。  
