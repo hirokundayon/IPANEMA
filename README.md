@@ -12,7 +12,7 @@ Microsoft ExcelでGoogle Chromeを自動実行するプログラムです。
 
 ## 必要なもの
 + Microsoft Excel    
-    * Micrsoft Excel 2016    
+    * Microsoft Excel 2016    
         + 64bit版  
         + 32bit版  
     * Microsoft Excel 2013  
